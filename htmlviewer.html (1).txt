@@ -1,0 +1,1265 @@
+	<!DOCTYPE html>
+	<html lang="en-US" prefix="og: https://ogp.me/ns#">
+	<head>
+	<meta charset="UTF-8">
+	
+	<!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
+	<title>Advance Data Analytics Using MS Excel - Office Master</title><link rel="preload" href="https://officemaster.in/wp-content/uploads/2024/03/Untitled-design-1.jpg" as="image" /><link rel="preload" href="https://officemaster.in/wp-content/uploads/2023/08/Untitled-design-2-1.png" as="image" /><link rel="preload" href="https://officemaster.in/wp-content/uploads/2024/03/ms-excel-1-1024x576.jpg" as="image" imagesrcset="https://officemaster.in/wp-content/uploads/2024/03/ms-excel-1-1024x576.jpg 1024w, https://officemaster.in/wp-content/uploads/2024/03/ms-excel-1-300x169.jpg 300w, https://officemaster.in/wp-content/uploads/2024/03/ms-excel-1-768x432.jpg 768w, https://officemaster.in/wp-content/uploads/2024/03/ms-excel-1.jpg 1280w" imagesizes="(max-width: 1024px) 100vw, 1024px" /><link rel='preload' href='https://officemaster.in/wp-content/cache/perfmatters/officemaster.in/css/page-888.used.css?ver=1735035277' as='style' onload="this.rel='stylesheet';this.removeAttribute('onload');"><link rel="stylesheet" id="perfmatters-used-css" href="https://officemaster.in/wp-content/cache/perfmatters/officemaster.in/css/page-888.used.css?ver=1735035277" media="all" />
+	<meta name="robots" content="follow, noindex"/>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Advance Data Analytics Using MS Excel - Office Master" />
+	<meta property="og:url" content="https://officemaster.in/excel-ga/" />
+	<meta property="og:site_name" content="Office Master" />
+	<meta property="og:updated_time" content="2024-05-21T09:26:34+05:30" />
+	<meta property="og:image" content="https://officemaster.in/wp-content/uploads/2023/08/ExcelGPT.jpg" />
+	<meta property="og:image:secure_url" content="https://officemaster.in/wp-content/uploads/2023/08/ExcelGPT.jpg" />
+	<meta property="og:image:width" content="1920" />
+	<meta property="og:image:height" content="1080" />
+	<meta property="og:image:alt" content="Microsoft Excel GA" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="article:published_time" content="2023-08-23T11:29:56+05:30" />
+	<meta property="article:modified_time" content="2024-05-21T09:26:34+05:30" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Advance Data Analytics Using MS Excel - Office Master" />
+	<meta name="twitter:image" content="https://officemaster.in/wp-content/uploads/2023/08/ExcelGPT.jpg" />
+	<meta name="twitter:label1" content="Time to read" />
+	<meta name="twitter:data1" content="Less than a minute" />
+	<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://officemaster.in/#organization","name":"Office Master","url":"https://officemaster.in","logo":{"@type":"ImageObject","@id":"https://officemaster.in/#logo","url":"https://officemaster.in/wp-content/uploads/2023/09/C2C-2-150x150.jpg","contentUrl":"https://officemaster.in/wp-content/uploads/2023/09/C2C-2-150x150.jpg","caption":"Office Master","inLanguage":"en-US"}},{"@type":"WebSite","@id":"https://officemaster.in/#website","url":"https://officemaster.in","name":"Office Master","publisher":{"@id":"https://officemaster.in/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://officemaster.in/wp-content/uploads/2023/08/ExcelGPT.jpg","url":"https://officemaster.in/wp-content/uploads/2023/08/ExcelGPT.jpg","width":"1920","height":"1080","inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://officemaster.in/excel-ga/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://officemaster.in","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://officemaster.in/excel-ga/","name":"Microsoft Excel GA"}}]},{"@type":"WebPage","@id":"https://officemaster.in/excel-ga/#webpage","url":"https://officemaster.in/excel-ga/","name":"Advance Data Analytics Using MS Excel - Office Master","datePublished":"2023-08-23T11:29:56+05:30","dateModified":"2024-05-21T09:26:34+05:30","isPartOf":{"@id":"https://officemaster.in/#website"},"primaryImageOfPage":{"@id":"https://officemaster.in/wp-content/uploads/2023/08/ExcelGPT.jpg"},"inLanguage":"en-US","breadcrumb":{"@id":"https://officemaster.in/excel-ga/#breadcrumb"}},{"@type":"Person","@id":"https://officemaster.in/author/arync/","name":"Aryan Chaurasia","url":"https://officemaster.in/author/arync/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/f6cddc5a248387e352c2f4483504824c?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/f6cddc5a248387e352c2f4483504824c?s=96&amp;d=mm&amp;r=g","caption":"Aryan Chaurasia","inLanguage":"en-US"},"sameAs":["https://aryn.tech/"],"worksFor":{"@id":"https://officemaster.in/#organization"}},{"@type":"Article","headline":"Advance Data Analytics Using MS Excel - Office Master","datePublished":"2023-08-23T11:29:56+05:30","dateModified":"2024-05-21T09:26:34+05:30","author":{"@id":"https://officemaster.in/author/arync/","name":"Aryan Chaurasia"},"publisher":{"@id":"https://officemaster.in/#organization"},"name":"Advance Data Analytics Using MS Excel - Office Master","@id":"https://officemaster.in/excel-ga/#richSnippet","isPartOf":{"@id":"https://officemaster.in/excel-ga/#webpage"},"image":{"@id":"https://officemaster.in/wp-content/uploads/2023/08/ExcelGPT.jpg"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://officemaster.in/excel-ga/#webpage"}}]}</script>
+	<!-- /Rank Math WordPress SEO plugin -->
+	
+	
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11131852453"></script>
+
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'AW-11131852453');
+	</script>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://officemaster.in/wp-includes/css/dist/block-library/style.min.css?ver=6.5.5" media="print" onload="this.media=&#039;all&#039;;this.onload=null;"></link>
+	<link rel="stylesheet" id="astra-theme-css-css" href="https://officemaster.in/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.6.10" media="print" onload="this.media=&#039;all&#039;;this.onload=null;"></link>
+	<link rel='stylesheet' id='astra-google-fonts-css' href='https://officemaster.in/wp-content/cache/perfmatters/officemaster.in/fonts/9d1f3550abb1.google-fonts.min.css' media='all' />
+	<link rel="stylesheet" id="astra-theme-dynamic-css" href="https://officemaster.in/wp-content/uploads/astra/astra-theme-dynamic-css-post-888.css?ver=1736597817" media="print" onload="this.media=&#039;all&#039;;this.onload=null;"></link>
+	<style id='rank-math-toc-block-style-inline-css'>
+	.wp-block-rank-math-toc-block nav ol{counter-reset:item}.wp-block-rank-math-toc-block nav ol li{display:block}.wp-block-rank-math-toc-block nav ol li:before{content:counters(item, ".") ". ";counter-increment:item}
+	
+	</style>
+	<link rel="stylesheet" id="astra-addon-css-css" href="https://officemaster.in/wp-content/uploads/astra-addon/astra-addon-669fdfc1b8c227-21504726.css?ver=4.6.4" media="print" onload="this.media=&#039;all&#039;;this.onload=null;"></link>
+	<link rel="stylesheet" id="astra-addon-dynamic-css" href="https://officemaster.in/wp-content/uploads/astra-addon/astra-addon-dynamic-css-post-888.css?ver=1736597817" media="print" onload="this.media=&#039;all&#039;;this.onload=null;"></link>
+	<link rel="stylesheet" id="elementor-frontend-css" href="https://officemaster.in/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.23.0" media="print" onload="this.media=&#039;all&#039;;this.onload=null;"></link>
+	<link rel="stylesheet" id="swiper-css" href="https://officemaster.in/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5" media="print" onload="this.media=&#039;all&#039;;this.onload=null;"></link>
+	<link rel='stylesheet' id='elementor-post-9-css' href='https://officemaster.in/wp-content/uploads/elementor/css/post-9.css?ver=1732776668' media='all' />
+
+	<link rel="stylesheet" id="elementor-pro-css" href="https://officemaster.in/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.23.0" media="print" onload="this.media=&#039;all&#039;;this.onload=null;"></link>
+	<link rel="stylesheet" id="font-awesome-5-all-css" href="https://officemaster.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.23.0" media="print" onload="this.media=&#039;all&#039;;this.onload=null;"></link>
+	<link rel="stylesheet" id="font-awesome-4-shim-css" href="https://officemaster.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.23.0" media="print" onload="this.media=&#039;all&#039;;this.onload=null;"></link>
+	<link rel='stylesheet' id='elementor-post-3350-css' href='https://officemaster.in/wp-content/uploads/elementor/css/post-3350.css?ver=1735035256' media='all' />
+
+	<link rel="stylesheet" id="masterx1-theme-css-css" href="https://officemaster.in/wp-content/themes/masterx1/style.css?ver=1.0.0" media="print" onload="this.media=&#039;all&#039;;this.onload=null;"></link>
+	<link rel='stylesheet' id='google-fonts-1-css' href='https://officemaster.in/wp-content/cache/perfmatters/officemaster.in/fonts/39402969a16b.google-fonts.min.css' media='all' />
+	<!--[if IE]>
+	<script src="https://officemaster.in/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=4.6.10" id="astra-flexibility-js"></script>
+	<script id="astra-flexibility-js-after">
+	flexibility(document.documentElement);
+	</script>
+	<![endif]-->
+	<script src="https://officemaster.in/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+	<script src="https://officemaster.in/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.23.0" id="font-awesome-4-shim-js" defer></script>
+
+	<script async src="https://officemaster.in/wp-content/uploads/perfmatters/gtagv4.js?id=G-4LKV9PXH28"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4LKV9PXH28");</script><meta name="generator" content="Elementor 3.23.0; features: e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+	<link rel="icon" href="https://officemaster.in/wp-content/uploads/2023/07/cropped-IMG-20230720-WA0016-32x32.jpg" sizes="32x32" />
+
+	<link rel="icon" href="https://officemaster.in/wp-content/uploads/2023/07/cropped-IMG-20230720-WA0016-192x192.jpg" sizes="192x192" />
+
+	<link rel="apple-touch-icon" href="https://officemaster.in/wp-content/uploads/2023/07/cropped-IMG-20230720-WA0016-180x180.jpg" />
+
+	<meta name="msapplication-TileImage" content="https://officemaster.in/wp-content/uploads/2023/07/cropped-IMG-20230720-WA0016-270x270.jpg" />
+	<noscript><style>.perfmatters-lazy[data-src]{display:none !important;}</style></noscript> <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
+	<body class="page-template-default page page-id-888 wp-custom-logo ast-header-break-point ast-page-builder-template ast-no-sidebar astra-4.6.10 group-blog ast-single-post ast-inherit-site-logo-transparent ast-hfb-header ast-full-width-layout ast-sticky-header-shrink ast-inherit-site-logo-sticky elementor-page-3350 elementor-default elementor-template-canvas elementor-kit-9 astra-addon-4.6.4">
+	<div data-elementor-type="single-page" data-elementor-id="3350" class="elementor elementor-3350 elementor-location-single post-888 page type-page status-publish has-post-thumbnail lp-category-excel-march-24 ast-article-single" data-elementor-post-type="elementor_library">
+	<div class="elementor-element elementor-element-39f11135 e-flex e-con-boxed e-con e-parent" data-id="39f11135" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-49db66ff elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="49db66ff" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<style>/*! elementor - v3.23.0 - 15-07-2024 */
+	.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default"><u>Master 100+ Formulas, create dashboards &amp; analyze data</u> <span>in</span> <u>ms excel</u> <span>using</span> <u>chatgpt &amp; AI</u> <span>to</span> <u>save 3 hours</u> <span>of your time daily and grow your</span> <u>salary upto 3x</u></h2> </div>
+	</div>
+	<div class="elementor-element elementor-element-4feaeca7 elementor-widget elementor-widget-heading" data-id="4feaeca7" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">(No PRIOR AI, CODING OR MS EXCEL KNOWLEDGE REQUIRED)</h2> </div>
+	</div>
+	<div class="elementor-element elementor-element-6ea86712 e-grid e-con-boxed e-con e-child" data-id="6ea86712" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-7e10339f e-flex e-con-boxed e-con e-child" data-id="7e10339f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-4c0aee1e e-grid e-con-boxed e-con e-child" data-id="4c0aee1e" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-6f6a5f01 elementor-align-left elementor-widget-mobile__width-inherit elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6f6a5f01" data-element_type="widget" data-widget_type="icon-list.default">
+	<div class="elementor-widget-container">
+	<link rel="stylesheet" href="https://officemaster.in/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css" media="print" onload="this.media=&#039;all&#039;;this.onload=null;"></link> <ul class="elementor-icon-list-items">
+	<li class="elementor-icon-list-item">
+	<span class="elementor-icon-list-icon">
+	<svg aria-hidden="true" class="e-font-icon-svg e-far-calendar-check" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M400 64h-48V12c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v52H160V12c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v52H48C21.49 64 0 85.49 0 112v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm-6 400H54a6 6 0 0 1-6-6V160h352v298a6 6 0 0 1-6 6zm-52.849-200.65L198.842 404.519c-4.705 4.667-12.303 4.637-16.971-.068l-75.091-75.699c-4.667-4.705-4.637-12.303.068-16.971l22.719-22.536c4.705-4.667 12.303-4.637 16.97.069l44.104 44.461 111.072-110.181c4.705-4.667 12.303-4.637 16.971.068l22.536 22.718c4.667 4.705 4.636 12.303-.069 16.97z"></path></svg> </span>
+	<span class="elementor-icon-list-text">January 19, 2025</span>
+	</li>
+	</ul>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-12fb7bb1 elementor-align-left elementor-widget-mobile__width-inherit elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="12fb7bb1" data-element_type="widget" data-widget_type="icon-list.default">
+	<div class="elementor-widget-container">
+	<ul class="elementor-icon-list-items">
+	<li class="elementor-icon-list-item">
+	<span class="elementor-icon-list-icon">
+	<svg aria-hidden="true" class="e-font-icon-svg e-far-clock" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path></svg> </span>
+	<span class="elementor-icon-list-text">11:00 AM</span>
+	</li>
+	</ul>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-6411859e elementor-align-left elementor-widget-mobile__width-inherit elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6411859e" data-element_type="widget" data-widget_type="icon-list.default">
+	<div class="elementor-widget-container">
+	<ul class="elementor-icon-list-items">
+	<li class="elementor-icon-list-item">
+	<span class="elementor-icon-list-icon">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-hourglass-half" viewBox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M360 0H24C10.745 0 0 10.745 0 24v16c0 13.255 10.745 24 24 24 0 90.965 51.016 167.734 120.842 192C75.016 280.266 24 357.035 24 448c-13.255 0-24 10.745-24 24v16c0 13.255 10.745 24 24 24h336c13.255 0 24-10.745 24-24v-16c0-13.255-10.745-24-24-24 0-90.965-51.016-167.734-120.842-192C308.984 231.734 360 154.965 360 64c13.255 0 24-10.745 24-24V24c0-13.255-10.745-24-24-24zm-75.078 384H99.08c17.059-46.797 52.096-80 92.92-80 40.821 0 75.862 33.196 92.922 80zm.019-256H99.078C91.988 108.548 88 86.748 88 64h208c0 22.805-3.987 44.587-11.059 64z"></path></svg> </span>
+	<span class="elementor-icon-list-text">3+ hours</span>
+	</li>
+	</ul>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-4131c136 elementor-align-left elementor-widget-mobile__width-inherit elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4131c136" data-element_type="widget" data-widget_type="icon-list.default">
+	<div class="elementor-widget-container">
+	<ul class="elementor-icon-list-items">
+	<li class="elementor-icon-list-item">
+	<span class="elementor-icon-list-icon">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-video" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M336.2 64H47.8C21.4 64 0 85.4 0 111.8v288.4C0 426.6 21.4 448 47.8 448h288.4c26.4 0 47.8-21.4 47.8-47.8V111.8c0-26.4-21.4-47.8-47.8-47.8zm189.4 37.7L416 177.3v157.4l109.6 75.5c21.2 14.6 50.4-.3 50.4-25.8V127.5c0-25.4-29.1-40.4-50.4-25.8z"></path></svg> </span>
+	<span class="elementor-icon-list-text">Live Session</span>
+	</li>
+	</ul>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-4331440c elementor-position-left elementor-vertical-align-middle elementor-widget elementor-widget-image-box" data-id="4331440c" data-element_type="widget" data-widget_type="image-box.default">
+	<div class="elementor-widget-container">
+	<style>/*! elementor - v3.23.0 - 15-07-2024 */
+	.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:end;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:start;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><script type="text/javascript" style="display:none">
+	//<![CDATA[
+	window.__mirage2 = {petok:"T4qpMaESB.3IUc.sYnbPjN9n21aW8gBMDxi8Cy1R5JI-1800-0.0.1.1"};
+	//]]>
+	</script>
+	<script type="text/javascript" src="https://ajax.cloudflare.com/cdn-cgi/scripts/04b3eb47/cloudflare-static/mirage2.min.js"></script>
+
+	<img data-perfmatters-preload width="1080" height="1080" class="attachment-full size-full wp-image-3423" alt="" data-cfsrc="https://officemaster.in/wp-content/uploads/2024/03/Untitled-design-1.jpg" style="display:none;visibility:hidden;" /><noscript><img data-perfmatters-preload="" width="1080" height="1080" src="https://officemaster.in/wp-content/uploads/2024/03/Untitled-design-1.jpg" class="attachment-full size-full wp-image-3423" alt=""/></noscript></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">INSTRUCTOR</h3><p class="elementor-image-box-description"><b>Aditya Goenka</b><br>IIT Kharagpur Alumnus | Trained 1,86,000+ students | 4 Yrs. of Experience
+	</p></div></div> </div>
+	</div>
+	<div class="elementor-element elementor-element-93791dd elementor-position-left elementor-vertical-align-middle elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image-box" data-id="93791dd" data-element_type="widget" data-widget_type="image-box.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img data-perfmatters-preload width="1080" height="1080" class="attachment-full size-full wp-image-3740" alt="" data-cfsrc="https://officemaster.in/wp-content/uploads/2023/08/Untitled-design-2-1.png" style="display:none;visibility:hidden;" /><noscript><img data-perfmatters-preload="" width="1080" height="1080" src="https://officemaster.in/wp-content/uploads/2023/08/Untitled-design-2-1.png" class="attachment-full size-full wp-image-3740" alt=""/></noscript></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">INSTRUCTOR</h3><p class="elementor-image-box-description"><b>Sharad Anand</b><br>Qualified Microsoft Certified Professional | 15 Years of Experience</p></div></div> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-3c9967e9 e-flex e-con-boxed e-con e-child" data-id="3c9967e9" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-708ec5c elementor-widget elementor-widget-image" data-id="708ec5c" data-element_type="widget" data-widget_type="image.default">
+	<div class="elementor-widget-container">
+	<style>/*! elementor - v3.23.0 - 15-07-2024 */
+	.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style> <img data-perfmatters-preload width="1024" height="576" class="attachment-large size-large wp-image-4618" alt="" srcset="https://officemaster.in/wp-content/uploads/2024/03/ms-excel-1-1024x576.jpg 1024w, https://officemaster.in/wp-content/uploads/2024/03/ms-excel-1-300x169.jpg 300w, https://officemaster.in/wp-content/uploads/2024/03/ms-excel-1-768x432.jpg 768w, https://officemaster.in/wp-content/uploads/2024/03/ms-excel-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" data-cfsrc="https://officemaster.in/wp-content/uploads/2024/03/ms-excel-1-1024x576.jpg" style="display:none;visibility:hidden;" /><noscript><img data-perfmatters-preload="" width="1024" height="576" src="https://officemaster.in/wp-content/uploads/2024/03/ms-excel-1-1024x576.jpg" class="attachment-large size-large wp-image-4618" alt="" srcset="https://officemaster.in/wp-content/uploads/2024/03/ms-excel-1-1024x576.jpg 1024w, https://officemaster.in/wp-content/uploads/2024/03/ms-excel-1-300x169.jpg 300w, https://officemaster.in/wp-content/uploads/2024/03/ms-excel-1-768x432.jpg 768w, https://officemaster.in/wp-content/uploads/2024/03/ms-excel-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px"/></noscript> </div>
+	</div>
+	<div class="elementor-element elementor-element-d89e3ff elementor-align-justify elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-hidden-desktop elementor-invisible elementor-widget elementor-widget-button" data-id="d89e3ff" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;shake&quot;}" data-widget_type="button.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-button-wrapper">
+	<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink" href="https://rzp.io/rzp/JQZcbmG">
+	<span class="elementor-button-content-wrapper">
+	<span class="elementor-button-text">Become a Certified MS Excel with ChatGPT &amp; AI Expert Now at <strike>₹ 1299</strike> ₹99/-</span>
+	</span>
+	</a>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-22d5afe3 elementor-align-justify elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-button" data-id="22d5afe3" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;shake&quot;}" data-widget_type="button.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-button-wrapper">
+	<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink" href="https://rzp.io/rzp/JQZcbmG">
+	<span class="elementor-button-content-wrapper">
+	<span class="elementor-button-text">Become a Certified MS Excel with ChatGPT &amp; AI Expert Now at <strike>₹ 1299</strike> ₹99/-</span>
+	</span>
+	</a>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-54c77f3 e-grid e-con-boxed e-con e-child" data-id="54c77f3" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-79cffb8 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="79cffb8" data-element_type="widget" data-widget_type="icon-list.default">
+	<div class="elementor-widget-container">
+	<ul class="elementor-icon-list-items">
+	<li class="elementor-icon-list-item">
+	<span class="elementor-icon-list-icon">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg> </span>
+	<span class="elementor-icon-list-text">Apply <u>100+ Excel Formulas</u> without memorizing any of them</span>
+	</li>
+	<li class="elementor-icon-list-item">
+	<span class="elementor-icon-list-icon">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg> </span>
+	<span class="elementor-icon-list-text">Create stunning looking <u>Excel reports in 120 seconds</u></span>
+	</li>
+	<li class="elementor-icon-list-item">
+	<span class="elementor-icon-list-icon">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg> </span>
+	<span class="elementor-icon-list-text"><u>Automate day-to-day office work using AI</u> in MS Excel</span>
+	</li>
+	</ul>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-310e2b1 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="310e2b1" data-element_type="widget" data-widget_type="icon-list.default">
+	<div class="elementor-widget-container">
+	<ul class="elementor-icon-list-items">
+	<li class="elementor-icon-list-item">
+	<span class="elementor-icon-list-icon">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg> </span>
+	<span class="elementor-icon-list-text"><u>Analyze any Excel data within 60 seconds</u> by integrating ChatGPT &amp; AI in MS Excel</span>
+	</li>
+	<li class="elementor-icon-list-item">
+	<span class="elementor-icon-list-icon">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg> </span>
+	<span class="elementor-icon-list-text">Make your career <u>AI Proof in 2024</u> and <u>avoid being laid off</u></span>
+	</li>
+	<li class="elementor-icon-list-item">
+	<span class="elementor-icon-list-icon">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg> </span>
+	<span class="elementor-icon-list-text">Increase your <u>salary by 3 times</u> and grow exponentially in your career</span>
+	</li>
+	</ul>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-15a521c e-flex e-con-boxed e-con e-parent" data-id="15a521c" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-480b73da elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="480b73da" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">Please Check All Boxes Where Your Answer Is YES!</h2> </div>
+	</div>
+	<div class="elementor-element elementor-element-79c93ee e-grid e-con-boxed e-con e-child" data-id="79c93ee" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-e00ef30 elementor-widget elementor-widget-html" data-id="e00ef30" data-element_type="widget" data-widget_type="html.default">
+	<div class="elementor-widget-container">
+	<label class="container1">
+	
+	<span class="checkmark1"> </span>
+	<p class="textb">I have been using MS Excel daily &amp; still do most of my work manually.
+	</p></label>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-5467379 elementor-widget elementor-widget-html" data-id="5467379" data-element_type="widget" data-widget_type="html.default">
+	<div class="elementor-widget-container">
+	<label class="container1">
+	
+	<span class="checkmark1"> </span>
+	<p class="textb">I need to google Excel formulas everytime since I cannot remember any of them.
+	</p></label> </div>
+	</div>
+	<div class="elementor-element elementor-element-b433fe0 elementor-widget elementor-widget-html" data-id="b433fe0" data-element_type="widget" data-widget_type="html.default">
+	<div class="elementor-widget-container">
+	<label class="container1">
+	
+	<span class="checkmark1"> </span>
+	<p class="textb">I want to automate my work in MS Excel but I don't know how to use Macros or automation using AI.
+	</p></label> </div>
+	</div>
+	<div class="elementor-element elementor-element-54b3b76 elementor-widget elementor-widget-html" data-id="54b3b76" data-element_type="widget" data-widget_type="html.default">
+	<div class="elementor-widget-container">
+	<label class="container1">
+	
+	<span class="checkmark1"> </span>
+	<p class="textb">I want to become the most productive employee in my office and get the fastest promotions.
+	</p></label> </div>
+	</div>
+	<div class="elementor-element elementor-element-a03e6e8 elementor-widget elementor-widget-html" data-id="a03e6e8" data-element_type="widget" data-widget_type="html.default">
+	<div class="elementor-widget-container">
+	<label class="container1">
+	
+	<span class="checkmark1"> </span>
+	<p class="textb">I want to unlock Excel's 100% potential and finish hours of work in seconds.
+	</p></label>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-b61f968 elementor-widget elementor-widget-html" data-id="b61f968" data-element_type="widget" data-widget_type="html.default">
+	<div class="elementor-widget-container">
+	<label class="container1">
+	
+	<span class="checkmark1"> </span>
+	<p class="textb">I want to make 3 times my current salary by integrating AI &amp; ChatGPT in MS Excel.
+	</p></label>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-3434f93 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="3434f93" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<p class="elementor-heading-title elementor-size-default">If you checked ANY of the boxes above, then you’re invited to join the <u>Certified MS Excel with ChatGPT &amp; AI COURSE</u>.</p> </div>
+	</div>
+	<div class="elementor-element elementor-element-b2b64ac elementor-align-justify elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-button" data-id="b2b64ac" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;shake&quot;}" data-widget_type="button.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-button-wrapper">
+	<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink" href="https://rzp.io/rzp/JQZcbmG">
+	<span class="elementor-button-content-wrapper">
+	<span class="elementor-button-text">Become a Certified MS Excel with ChatGPT &amp; AI Expert Now at <strike>₹ 1299</strike> ₹99/-</span>
+	</span>
+	</a>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-85f459a elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="85f459a" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">ENROLL BEFORE 26 JANUARY 2025<br>to Unlock All Bonuses Worth Rs.10500</h2> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-52e301a2 e-flex e-con-boxed e-con e-parent" data-id="52e301a2" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-44f33156 e-con-full e-flex e-con e-child" data-id="44f33156" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+	<div class="elementor-element elementor-element-54a7dc69 elementor-widget elementor-widget-heading" data-id="54a7dc69" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">WHAT IF I TOLD YOU... </h2> </div>
+	</div>
+	<div class="elementor-element elementor-element-187c483 elementor-widget elementor-widget-text-editor" data-id="187c483" data-element_type="widget" data-widget_type="text-editor.default">
+	<div class="elementor-widget-container">
+	<style>/*! elementor - v3.23.0 - 15-07-2024 */
+	.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style> <p>You can master 100+ Excel Formulas, Automate your work using Macros, Analyze your data, and Create stunning-looking Excel Reports in minutes to save 3 hours of your time and effort every single day?</p> </div>
+	</div>
+	<div class="elementor-element elementor-element-178d8f55 elementor-widget elementor-widget-heading" data-id="178d8f55" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h3 class="elementor-heading-title elementor-size-default">Yes, It's That Easy with the<br><u>MS Excel with ChatGPT &amp; AI COURSE</u></h3> </div>
+	</div>
+	<div class="elementor-element elementor-element-24337aa6 elementor-widget elementor-widget-heading" data-id="24337aa6" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h3 class="elementor-heading-title elementor-size-default">No Prior Knowledge or Experience Required!</h3> </div>
+	</div>
+	<div class="elementor-element elementor-element-5f5e9954 elementor-align-justify elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-button" data-id="5f5e9954" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;shake&quot;}" data-widget_type="button.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-button-wrapper">
+	<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink" href="https://rzp.io/rzp/JQZcbmG">
+	<span class="elementor-button-content-wrapper">
+	<span class="elementor-button-text">Become a Certified MS Excel with ChatGPT &amp; AI Expert Now at <strike>₹ 1299</strike> ₹99/-</span>
+	</span>
+	</a>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-1503d03f elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="1503d03f" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">ENROLL BEFORE 26 JANUARY 2025<br>to Unlock All Bonuses Worth Rs.10500</h2> </div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-33906c0b e-flex e-con-boxed e-con e-parent" data-id="33906c0b" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-13fb4823 elementor-widget elementor-widget-heading" data-id="13fb4823" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">Did you Know?</h2> </div>
+	</div>
+	<div class="elementor-element elementor-element-a7f8cd3 e-grid e-con-boxed e-con e-child" data-id="a7f8cd3" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-65d39a59 e-flex e-con-boxed e-con e-child" data-id="65d39a59" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-79c16de4 elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="79c16de4" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h5 class="elementor-heading-title elementor-size-default"><span>2 LPA</span></h5> </div>
+	</div>
+	<div class="elementor-element elementor-element-35c074e3 elementor-widget elementor-widget-text-editor" data-id="35c074e3" data-element_type="widget" data-widget_type="text-editor.default">
+	<div class="elementor-widget-container">
+	<p>Average salary if you know<br><span style="text-decoration: underline"><b>Basic Excel</b></span></p> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-dcba056 e-flex e-con-boxed e-con e-child" data-id="dcba056" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-b73cef3 elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="b73cef3" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h5 class="elementor-heading-title elementor-size-default"><span>6 LPA</span></h5> </div>
+	</div>
+	<div class="elementor-element elementor-element-555a156 elementor-widget elementor-widget-text-editor" data-id="555a156" data-element_type="widget" data-widget_type="text-editor.default">
+	<div class="elementor-widget-container">
+	<p>Average salary if you know<br><span style="text-decoration: underline"><b>Advanced Excel</b></span></p> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-79479a95 e-flex e-con-boxed e-con e-child" data-id="79479a95" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-505abcb elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="505abcb" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default"><span>18 LPA</span></h2> </div>
+	</div>
+	<div class="elementor-element elementor-element-421164be elementor-widget elementor-widget-text-editor" data-id="421164be" data-element_type="widget" data-widget_type="text-editor.default">
+	<div class="elementor-widget-container">
+	<p>Average salary if you know <b><u>Microsoft Excel with ChatGPT and AI</u></b></p> </div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-b6fc2f7 elementor-align-justify elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-button" data-id="b6fc2f7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;shake&quot;}" data-widget_type="button.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-button-wrapper">
+	<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink" href="https://rzp.io/rzp/JQZcbmG">
+	<span class="elementor-button-content-wrapper">
+	<span class="elementor-button-text">Become a Certified MS Excel with ChatGPT &amp; AI Expert Now at <strike>₹ 1299</strike> ₹99/-</span>
+	</span>
+	</a>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-f006f0f elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="f006f0f" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">ENROLL BEFORE 26 JANUARY 2025 to Unlock All Bonuses Worth Rs.10500</h2> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-f766d5 e-flex e-con-boxed e-con e-parent" data-id="f766d5" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-1507e905 elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline" data-id="1507e905" data-element_type="widget" data-settings="{&quot;highlighted_text&quot;:&quot;&lt;u&gt;MS Excel with ChatGPT &amp; AI COURSE&lt;\/u&gt;?&quot;,&quot;marker&quot;:&quot;x&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
+	<div class="elementor-widget-container">
+	<link rel="stylesheet" href="https://officemaster.in/wp-content/plugins/elementor-pro/assets/css/widget-animated-headline.min.css?ver=1724747491" media="print" onload="this.media=&#039;all&#039;;this.onload=null;"></link> <span class="elementor-headline">
+	<span class="elementor-headline-plain-text elementor-headline-text-wrapper">What you will learn in this</span>
+	<span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
+	<span class="elementor-headline-dynamic-text elementor-headline-text-active"><u>MS Excel with ChatGPT &amp; AI COURSE</u>?</span>
+	</span>
+	</span>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-4329f7fc e-grid e-con-boxed e-con e-child" data-id="4329f7fc" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-6cf4d386 e-flex e-con-boxed e-con e-child" data-id="6cf4d386" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-1acf341f elementor-widget elementor-widget-image" data-id="1acf341f" data-element_type="widget" data-widget_type="image.default">
+	<div class="elementor-widget-container">
+	<img width="872" height="548" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20width=&#039;872&#039;%20height=&#039;548&#039;%20viewBox=&#039;0%200%20872%20548&#039;%3E%3C/svg%3E" class="attachment-large size-large wp-image-923 perfmatters-lazy" alt data-src="https://officemaster.in/wp-content/uploads/2023/09/ChatGPT-Integration.gif" /><noscript><img width="872" height="548" src="https://officemaster.in/wp-content/uploads/2023/09/ChatGPT-Integration.gif" class="attachment-large size-large wp-image-923" alt="" /></noscript> </div>
+	</div>
+	<div class="elementor-element elementor-element-7e5a514f elementor-widget elementor-widget-heading" data-id="7e5a514f" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h3 class="elementor-heading-title elementor-size-default">Integrate ChatGPT &amp; AI inside Excel
+	</h3> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-7fd3bf6a e-flex e-con-boxed e-con e-child" data-id="7fd3bf6a" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-44bf1fc elementor-widget elementor-widget-image" data-id="44bf1fc" data-element_type="widget" data-widget_type="image.default">
+	<div class="elementor-widget-container">
+	<img width="872" height="548" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20width=&#039;872&#039;%20height=&#039;548&#039;%20viewBox=&#039;0%200%20872%20548&#039;%3E%3C/svg%3E" class="attachment-large size-large wp-image-924 perfmatters-lazy" alt data-src="https://officemaster.in/wp-content/uploads/2023/09/9d7f1e_6ab6076856ff4ad7ab3f8ed2bf11b0afmv2.gif" /><noscript><img width="872" height="548" src="https://officemaster.in/wp-content/uploads/2023/09/9d7f1e_6ab6076856ff4ad7ab3f8ed2bf11b0afmv2.gif" class="attachment-large size-large wp-image-924" alt="" /></noscript> </div>
+	</div>
+	<div class="elementor-element elementor-element-7c558162 elementor-widget elementor-widget-heading" data-id="7c558162" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h3 class="elementor-heading-title elementor-size-default">Master 100+ Excel Formulas</h3> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-3e66e126 e-flex e-con-boxed e-con e-child" data-id="3e66e126" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-5c8404ee elementor-widget elementor-widget-image" data-id="5c8404ee" data-element_type="widget" data-widget_type="image.default">
+	<div class="elementor-widget-container">
+	<img width="1024" height="663" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20width=&#039;1024&#039;%20height=&#039;663&#039;%20viewBox=&#039;0%200%201024%20663&#039;%3E%3C/svg%3E" class="attachment-large size-large wp-image-927 perfmatters-lazy" alt data-src="https://officemaster.in/wp-content/uploads/2023/09/Automation-Templates-1024x663.jpg" data-srcset="https://officemaster.in/wp-content/uploads/2023/09/Automation-Templates-1024x663.jpg 1024w, https://officemaster.in/wp-content/uploads/2023/09/Automation-Templates-300x194.jpg 300w, https://officemaster.in/wp-content/uploads/2023/09/Automation-Templates-768x498.jpg 768w, https://officemaster.in/wp-content/uploads/2023/09/Automation-Templates-1536x995.jpg 1536w, https://officemaster.in/wp-content/uploads/2023/09/Automation-Templates.jpg 1667w" data-sizes="(max-width: 1024px) 100vw, 1024px" /><noscript><img width="1024" height="663" src="https://officemaster.in/wp-content/uploads/2023/09/Automation-Templates-1024x663.jpg" class="attachment-large size-large wp-image-927" alt="" srcset="https://officemaster.in/wp-content/uploads/2023/09/Automation-Templates-1024x663.jpg 1024w, https://officemaster.in/wp-content/uploads/2023/09/Automation-Templates-300x194.jpg 300w, https://officemaster.in/wp-content/uploads/2023/09/Automation-Templates-768x498.jpg 768w, https://officemaster.in/wp-content/uploads/2023/09/Automation-Templates-1536x995.jpg 1536w, https://officemaster.in/wp-content/uploads/2023/09/Automation-Templates.jpg 1667w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript> </div>
+	</div>
+	<div class="elementor-element elementor-element-4eeeb081 elementor-widget elementor-widget-heading" data-id="4eeeb081" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h3 class="elementor-heading-title elementor-size-default">Analyze any Excel data from scratch within 60 seconds</h3> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-2f533c59 e-flex e-con-boxed e-con e-child" data-id="2f533c59" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-41698d09 elementor-widget elementor-widget-image" data-id="41698d09" data-element_type="widget" data-widget_type="image.default">
+	<div class="elementor-widget-container">
+	<img width="872" height="548" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20width=&#039;872&#039;%20height=&#039;548&#039;%20viewBox=&#039;0%200%20872%20548&#039;%3E%3C/svg%3E" class="attachment-large size-large wp-image-925 perfmatters-lazy" alt data-src="https://officemaster.in/wp-content/uploads/2023/09/Templates-1.png" data-srcset="https://officemaster.in/wp-content/uploads/2023/09/Templates-1.png 872w, https://officemaster.in/wp-content/uploads/2023/09/Templates-1-300x189.png 300w, https://officemaster.in/wp-content/uploads/2023/09/Templates-1-768x483.png 768w" data-sizes="(max-width: 872px) 100vw, 872px" /><noscript><img width="872" height="548" src="https://officemaster.in/wp-content/uploads/2023/09/Templates-1.png" class="attachment-large size-large wp-image-925" alt="" srcset="https://officemaster.in/wp-content/uploads/2023/09/Templates-1.png 872w, https://officemaster.in/wp-content/uploads/2023/09/Templates-1-300x189.png 300w, https://officemaster.in/wp-content/uploads/2023/09/Templates-1-768x483.png 768w" sizes="(max-width: 872px) 100vw, 872px" /></noscript> </div>
+	</div>
+	<div class="elementor-element elementor-element-6960a495 elementor-widget elementor-widget-heading" data-id="6960a495" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h3 class="elementor-heading-title elementor-size-default">Create Stunning Looking Excel Reports In Just 120 seconds</h3> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-e12f492 e-flex e-con-boxed e-con e-child" data-id="e12f492" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-7bb65c11 elementor-widget elementor-widget-image" data-id="7bb65c11" data-element_type="widget" data-widget_type="image.default">
+	<div class="elementor-widget-container">
+	<img width="872" height="548" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20width=&#039;872&#039;%20height=&#039;548&#039;%20viewBox=&#039;0%200%20872%20548&#039;%3E%3C/svg%3E" class="attachment-large size-large wp-image-926 perfmatters-lazy" alt data-src="https://officemaster.in/wp-content/uploads/2023/09/45-Super-Buttons.png" data-srcset="https://officemaster.in/wp-content/uploads/2023/09/45-Super-Buttons.png 872w, https://officemaster.in/wp-content/uploads/2023/09/45-Super-Buttons-300x189.png 300w, https://officemaster.in/wp-content/uploads/2023/09/45-Super-Buttons-768x483.png 768w" data-sizes="(max-width: 872px) 100vw, 872px" /><noscript><img width="872" height="548" src="https://officemaster.in/wp-content/uploads/2023/09/45-Super-Buttons.png" class="attachment-large size-large wp-image-926" alt="" srcset="https://officemaster.in/wp-content/uploads/2023/09/45-Super-Buttons.png 872w, https://officemaster.in/wp-content/uploads/2023/09/45-Super-Buttons-300x189.png 300w, https://officemaster.in/wp-content/uploads/2023/09/45-Super-Buttons-768x483.png 768w" sizes="(max-width: 872px) 100vw, 872px" /></noscript> </div>
+	</div>
+	<div class="elementor-element elementor-element-53865aa elementor-widget elementor-widget-heading" data-id="53865aa" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h3 class="elementor-heading-title elementor-size-default">Automate day-to-day Office Tasks with Macros, No Coding Required!</h3> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-13a857be e-flex e-con-boxed e-con e-child" data-id="13a857be" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-34b253c1 elementor-widget elementor-widget-image" data-id="34b253c1" data-element_type="widget" data-widget_type="image.default">
+	<div class="elementor-widget-container">
+	<img width="826" height="519" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20width=&#039;826&#039;%20height=&#039;519&#039;%20viewBox=&#039;0%200%20826%20519&#039;%3E%3C/svg%3E" class="attachment-large size-large wp-image-928 perfmatters-lazy" alt data-src="https://officemaster.in/wp-content/uploads/2023/09/AI-Proof.jpg" data-srcset="https://officemaster.in/wp-content/uploads/2023/09/AI-Proof.jpg 826w, https://officemaster.in/wp-content/uploads/2023/09/AI-Proof-300x188.jpg 300w, https://officemaster.in/wp-content/uploads/2023/09/AI-Proof-768x483.jpg 768w" data-sizes="(max-width: 826px) 100vw, 826px" /><noscript><img width="826" height="519" src="https://officemaster.in/wp-content/uploads/2023/09/AI-Proof.jpg" class="attachment-large size-large wp-image-928" alt="" srcset="https://officemaster.in/wp-content/uploads/2023/09/AI-Proof.jpg 826w, https://officemaster.in/wp-content/uploads/2023/09/AI-Proof-300x188.jpg 300w, https://officemaster.in/wp-content/uploads/2023/09/AI-Proof-768x483.jpg 768w" sizes="(max-width: 826px) 100vw, 826px" /></noscript> </div>
+	</div>
+	<div class="elementor-element elementor-element-286bd3fa elementor-widget elementor-widget-heading" data-id="286bd3fa" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h3 class="elementor-heading-title elementor-size-default">Become AI Proof, Avoid Layoffs &amp; rather Grow your salary by 3x</h3> </div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-6a8ea59 elementor-align-justify elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-button" data-id="6a8ea59" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;shake&quot;}" data-widget_type="button.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-button-wrapper">
+	<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink" href="https://rzp.io/rzp/JQZcbmG">
+	<span class="elementor-button-content-wrapper">
+	<span class="elementor-button-text">Become a Certified MS Excel with ChatGPT &amp; AI Expert Now at <strike>₹ 1299</strike> ₹99/-</span>
+	</span>
+	</a>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-5fe2c53c elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="5fe2c53c" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">ENROLL BEFORE 26 JANUARY 2025 to Unlock All Bonuses Worth Rs.10500</h2> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-52e5a96b e-flex e-con-boxed e-con e-parent" data-id="52e5a96b" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-67551772 elementor-widget elementor-widget-heading" data-id="67551772" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">ENROLL BEFORE 26 JANUARY 2025 to Unlock All Bonuses Worth Rs.10500</h2> </div>
+	</div>
+	<div class="elementor-element elementor-element-4ea2c83d e-grid e-con-boxed e-con e-child" data-id="4ea2c83d" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-2a84f13a e-flex e-con-boxed e-con e-child" data-id="2a84f13a" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-1ee33a18 elementor-widget elementor-widget-heading" data-id="1ee33a18" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h5 class="elementor-heading-title elementor-size-default">Bonus 1</h5> </div>
+	</div>
+	<div class="elementor-element elementor-element-7dd9ed1b elementor-widget elementor-widget-heading" data-id="7dd9ed1b" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">Rs. 3500</h2> </div>
+	</div>
+	<div class="elementor-element elementor-element-26872c94 elementor-widget elementor-widget-heading" data-id="26872c94" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h4 class="elementor-heading-title elementor-size-default">30+ MS Excel Automation Templates</h4> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-1100edf e-flex e-con-boxed e-con e-child" data-id="1100edf" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-a4aa34c elementor-widget elementor-widget-heading" data-id="a4aa34c" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h5 class="elementor-heading-title elementor-size-default">Bonus 2</h5> </div>
+	</div>
+	<div class="elementor-element elementor-element-7b4c3f2c elementor-widget elementor-widget-heading" data-id="7b4c3f2c" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">Rs. 2500</h2> </div>
+	</div>
+	<div class="elementor-element elementor-element-4d7e0c90 elementor-widget elementor-widget-heading" data-id="4d7e0c90" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h4 class="elementor-heading-title elementor-size-default">Lifetime Access To 30+ AI Tools To Help You Finish Your Work Faster Than A Robot</h4> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-72dbde84 e-flex e-con-boxed e-con e-child" data-id="72dbde84" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-4d23aa9c elementor-widget elementor-widget-heading" data-id="4d23aa9c" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h5 class="elementor-heading-title elementor-size-default">Bonus 3</h5> </div>
+	</div>
+	<div class="elementor-element elementor-element-4ea224c7 elementor-widget elementor-widget-heading" data-id="4ea224c7" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">Rs. 2500</h2> </div>
+	</div>
+	<div class="elementor-element elementor-element-4278aba6 elementor-widget elementor-widget-heading" data-id="4278aba6" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h4 class="elementor-heading-title elementor-size-default">100+ Done For You PowerPoint Templates To Create Stunning Presentations
+	</h4> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-7b888cd8 e-flex e-con-boxed e-con e-child" data-id="7b888cd8" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-3411da6f elementor-widget elementor-widget-heading" data-id="3411da6f" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h5 class="elementor-heading-title elementor-size-default">Bonus 4</h5> </div>
+	</div>
+	<div class="elementor-element elementor-element-5c5c1ee2 elementor-widget elementor-widget-heading" data-id="5c5c1ee2" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">Rs. 2000</h2> </div>
+	</div>
+	<div class="elementor-element elementor-element-43472e1e elementor-widget elementor-widget-heading" data-id="43472e1e" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h4 class="elementor-heading-title elementor-size-default">Complete MS Excel Essential Shortcuts Guide to Work Faster In MS Excel
+	</h4> </div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-08159a5 e-flex e-con-boxed e-con e-child" data-id="08159a5" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-50bd4aef elementor-widget elementor-widget-heading" data-id="50bd4aef" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h4 class="elementor-heading-title elementor-size-default">TIME IS RUNNING OUT. <br>
+	GRAB YOUR SPOT FAST</h4> </div>
+	</div>
+	<div class="elementor-element elementor-element-861ef60 elementor-widget__width-initial elementor-countdown--label-block elementor-widget elementor-widget-countdown" data-id="861ef60" data-element_type="widget" data-widget_type="countdown.default">
+	<div class="elementor-widget-container">
+	<style>/*! elementor-pro - v3.23.0 - 15-07-2024 */
+	.elementor-widget-countdown .elementor-countdown-expire--message{display:none;padding:20px;text-align:center}.elementor-widget-countdown .elementor-countdown-wrapper{flex-direction:row}.elementor-widget-countdown .elementor-countdown-item{padding:20px 0;text-align:center;color:#fff}.elementor-widget-countdown .elementor-countdown-digits,.elementor-widget-countdown .elementor-countdown-label{line-height:1}.elementor-widget-countdown .elementor-countdown-digits{font-size:69px}.elementor-widget-countdown .elementor-countdown-label{font-size:19px}.elementor-widget-countdown.elementor-countdown--label-block .elementor-countdown-wrapper{display:flex;justify-content:center;margin-right:auto;margin-left:auto}.elementor-widget-countdown.elementor-countdown--label-block .elementor-countdown-digits,.elementor-widget-countdown.elementor-countdown--label-block .elementor-countdown-label{display:block}.elementor-widget-countdown.elementor-countdown--label-block .elementor-countdown-item{flex-basis:0;flex-grow:1}.elementor-widget-countdown.elementor-countdown--label-inline{text-align:center}.elementor-widget-countdown.elementor-countdown--label-inline .elementor-countdown-item{display:inline-block;padding-left:5px;padding-right:5px}</style> <div data-evergreen-interval="1116" class="elementor-countdown-wrapper" data-date="">
+	<div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-minutes"></span> <span class="elementor-countdown-label">Minutes</span></div><div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-seconds"></span> <span class="elementor-countdown-label">Seconds</span></div> </div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-3430e0bd elementor-widget elementor-widget-heading" data-id="3430e0bd" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h4 class="elementor-heading-title elementor-size-default">Limited Seats Only at ₹99/-</h4> </div>
+	</div>
+	<div class="elementor-element elementor-element-9dd73e8 elementor-align-justify elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-button" data-id="9dd73e8" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;shake&quot;}" data-widget_type="button.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-button-wrapper">
+	<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink" href="https://rzp.io/rzp/JQZcbmG">
+	<span class="elementor-button-content-wrapper">
+	<span class="elementor-button-text">Become a Certified MS Excel with ChatGPT &amp; AI Expert Now at <strike>₹ 1299</strike> ₹99/-</span>
+	</span>
+	</a>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-3e4d3d74 elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="3e4d3d74" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">ENROLL BEFORE 26 JANUARY 2025 to Unlock All Bonuses Worth Rs.10500</h2> </div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-13125b96 e-flex e-con-boxed e-con e-parent" data-id="13125b96" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-37ec10f7 elementor-widget elementor-widget-heading" data-id="37ec10f7" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">See how working professionals just like you have become <b style="color: #39FB17">10x versions of themselves using ChatGPT &amp; AI in Microsoft Excel</b>. <br>You will be next when you attend the COURSE...
+	🧐</h2> </div>
+	</div>
+	<div class="elementor-element elementor-element-7b96cd71 elementor-widget elementor-widget-gallery" data-id="7b96cd71" data-element_type="widget" data-settings="{&quot;gallery_layout&quot;:&quot;masonry&quot;,&quot;columns&quot;:&quot;2&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
+	<div class="elementor-widget-container">
+	<style>/*! elementor-pro - v3.23.0 - 15-07-2024 */
+	.elementor-gallery__container{min-height:1px}.elementor-gallery-item{position:relative;overflow:hidden;display:block;text-decoration:none;border:solid var(--image-border-width) var(--image-border-color);border-radius:var(--image-border-radius)}.elementor-gallery-item__content,.elementor-gallery-item__overlay{height:100%;width:100%;position:absolute;top:0;left:0}.elementor-gallery-item__overlay{mix-blend-mode:var(--overlay-mix-blend-mode);transition-duration:var(--overlay-transition-duration);transition-property:mix-blend-mode,transform,opacity,background-color}.elementor-gallery-item__image.e-gallery-image{transition-duration:var(--image-transition-duration);transition-property:filter,transform}.elementor-gallery-item__content{display:flex;flex-direction:column;justify-content:var(--content-justify-content,center);align-items:center;text-align:var(--content-text-align);padding:var(--content-padding)}.elementor-gallery-item__content>div{transition-duration:var(--content-transition-duration)}.elementor-gallery-item__content.elementor-gallery--sequenced-animation>div:nth-child(2){transition-delay:calc(var(--content-transition-delay) / 3)}.elementor-gallery-item__content.elementor-gallery--sequenced-animation>div:nth-child(3){transition-delay:calc(var(--content-transition-delay) / 3 * 2)}.elementor-gallery-item__content.elementor-gallery--sequenced-animation>div:nth-child(4){transition-delay:calc(var(--content-transition-delay) / 3 * 3)}.elementor-gallery-item__description{color:var(--description-text-color,#fff);width:100%}.elementor-gallery-item__title{color:var(--title-text-color,#fff);font-weight:700;width:100%}.elementor-gallery__titles-container{display:flex;flex-wrap:wrap;justify-content:var(--titles-container-justify-content,center);margin-bottom:20px}.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item:after,.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item:before{background-color:var(--galleries-pointer-bg-color-hover)}.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item.elementor-item-active:after,.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item.elementor-item-active:before{background-color:var(--galleries-pointer-bg-color-active)}.elementor-gallery__titles-container.e--pointer-framed .elementor-item:before{border-color:var(--galleries-pointer-bg-color-hover);border-width:var(--galleries-pointer-border-width)}.elementor-gallery__titles-container.e--pointer-framed .elementor-item:after{border-color:var(--galleries-pointer-bg-color-hover)}.elementor-gallery__titles-container.e--pointer-framed .elementor-item.elementor-item-active:after,.elementor-gallery__titles-container.e--pointer-framed .elementor-item.elementor-item-active:before{border-color:var(--galleries-pointer-bg-color-active)}.elementor-gallery__titles-container.e--pointer-framed.e--animation-draw .elementor-item:before{border-left-width:var(--galleries-pointer-border-width);border-bottom-width:var(--galleries-pointer-border-width);border-right-width:0;border-top-width:0}.elementor-gallery__titles-container.e--pointer-framed.e--animation-draw .elementor-item:after{border-left-width:0;border-bottom-width:0;border-right-width:var(--galleries-pointer-border-width);border-top-width:var(--galleries-pointer-border-width)}.elementor-gallery__titles-container.e--pointer-framed.e--animation-corners .elementor-item:before{border-left-width:var(--galleries-pointer-border-width);border-bottom-width:0;border-right-width:0;border-top-width:var(--galleries-pointer-border-width)}.elementor-gallery__titles-container.e--pointer-framed.e--animation-corners .elementor-item:after{border-left-width:0;border-bottom-width:var(--galleries-pointer-border-width);border-right-width:var(--galleries-pointer-border-width);border-top-width:0}.elementor-gallery__titles-container .e--pointer-double-line .elementor-item:after,.elementor-gallery__titles-container .e--pointer-double-line .elementor-item:before,.elementor-gallery__titles-container .e--pointer-overline .elementor-item:before,.elementor-gallery__titles-container .e--pointer-underline .elementor-item:after{height:var(--galleries-pointer-border-width)}.elementor-gallery-title{--space-between:10px;cursor:pointer;color:#6d7882;font-weight:500;position:relative;padding:7px 14px;transition:all .3s}.elementor-gallery-title--active{color:#495157}.elementor-gallery-title:not(:last-child){margin-inline-end:var(--space-between)}.elementor-gallery-item__title+.elementor-gallery-item__description{margin-top:var(--description-margin-top)}.e-gallery-item.elementor-gallery-item{transition-property:all}.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-bottom,.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-left,.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-right,.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-top,.e-gallery-item:focus .elementor-gallery__item-overlay-bg,.e-gallery-item:focus .elementor-gallery__item-overlay-content,.e-gallery-item:focus .elementor-gallery__item-overlay-content__description,.e-gallery-item:focus .elementor-gallery__item-overlay-content__title,.e-gallery-item:hover .elementor-gallery__item-overlay-bg,.e-gallery-item:hover .elementor-gallery__item-overlay-content,.e-gallery-item:hover .elementor-gallery__item-overlay-content__description,.e-gallery-item:hover .elementor-gallery__item-overlay-content__title{opacity:1}a.elementor-item.elementor-gallery-title{color:var(--galleries-title-color-normal)}a.elementor-item.elementor-gallery-title.elementor-item-active,a.elementor-item.elementor-gallery-title.highlighted,a.elementor-item.elementor-gallery-title:focus,a.elementor-item.elementor-gallery-title:hover{color:var(--galleries-title-color-hover)}a.elementor-item.elementor-gallery-title.elementor-item-active{color:var(--gallery-title-color-active)}.e-con-inner>.elementor-widget-gallery,.e-con>.elementor-widget-gallery{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}</style> <div class="elementor-gallery__container">
+	<div class="e-gallery-item elementor-gallery-item elementor-animated-content">
+	<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://officemaster.in/wp-content/uploads/2024/03/1-2-e1711022648110-1024x797.png" data-width="1024" data-height="797" aria-label="" role="img" ></div>
+	</div>
+	<div class="e-gallery-item elementor-gallery-item elementor-animated-content">
+	<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://officemaster.in/wp-content/uploads/2024/03/2-1-e1711022665400-1024x767.png" data-width="1024" data-height="767" aria-label="" role="img" ></div>
+	</div>
+	<div class="e-gallery-item elementor-gallery-item elementor-animated-content">
+	<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://officemaster.in/wp-content/uploads/2024/03/3-1-e1711022703623-1024x766.png" data-width="1024" data-height="766" aria-label="" role="img" ></div>
+	</div>
+	<div class="e-gallery-item elementor-gallery-item elementor-animated-content">
+	<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://officemaster.in/wp-content/uploads/2024/03/4-1-e1711022721538-1024x806.png" data-width="1024" data-height="806" aria-label="" role="img" ></div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-472726e e-flex e-con-boxed e-con e-child" data-id="472726e" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-a3e0fe1 elementor-widget elementor-widget-rating" data-id="a3e0fe1" data-element_type="widget" data-widget_type="rating.default">
+	<div class="elementor-widget-container">
+	<style>/*! elementor - v3.23.0 - 15-07-2024 */
+	.elementor-widget-rating{--e-rating-gap:0px;--e-rating-icon-font-size:16px;--e-rating-icon-color:#ccd6df;--e-rating-icon-marked-color:#f0ad4e;--e-rating-icon-marked-width:100%;--e-rating-justify-content:flex-start}.elementor-widget-rating .e-rating{display:flex;justify-content:var(--e-rating-justify-content)}.elementor-widget-rating .e-rating-wrapper{display:flex;justify-content:inherit;flex-direction:row;flex-wrap:wrap;width:-moz-fit-content;width:fit-content;margin-block-end:calc(0px - var(--e-rating-gap));margin-inline-end:calc(0px - var(--e-rating-gap))}.elementor-widget-rating .e-rating .e-icon{position:relative;margin-block-end:var(--e-rating-gap);margin-inline-end:var(--e-rating-gap)}.elementor-widget-rating .e-rating .e-icon-wrapper.e-icon-marked{--e-rating-icon-color:var(--e-rating-icon-marked-color);width:var(--e-rating-icon-marked-width);position:absolute;z-index:1;height:100%;left:0;top:0;overflow:hidden}.elementor-widget-rating .e-rating .e-icon-wrapper :is(i,svg){display:flex;flex-shrink:0}.elementor-widget-rating .e-rating .e-icon-wrapper i{font-size:var(--e-rating-icon-font-size);color:var(--e-rating-icon-color)}.elementor-widget-rating .e-rating .e-icon-wrapper svg{width:auto;height:var(--e-rating-icon-font-size);fill:var(--e-rating-icon-color)}</style> <div class="e-rating" itemtype="https://schema.org/Rating" itemscope="" itemprop="reviewRating">
+	<meta itemprop="worstRating" content="0">
+	<meta itemprop="bestRating" content="5">
+	<div class="e-rating-wrapper" itemprop="ratingValue" content="4.9" role="img" aria-label="Rated 4.9 out of 5">
+	<div class="e-icon">
+	<div class="e-icon-wrapper e-icon-marked">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg> </div>
+	<div class="e-icon-wrapper e-icon-unmarked">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg> </div>
+	</div>
+	<div class="e-icon">
+	<div class="e-icon-wrapper e-icon-marked">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg> </div>
+	<div class="e-icon-wrapper e-icon-unmarked">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg> </div>
+	</div>
+	<div class="e-icon">
+	<div class="e-icon-wrapper e-icon-marked">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg> </div>
+	<div class="e-icon-wrapper e-icon-unmarked">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg> </div>
+	</div>
+	<div class="e-icon">
+	<div class="e-icon-wrapper e-icon-marked">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg> </div>
+	<div class="e-icon-wrapper e-icon-unmarked">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg> </div>
+	</div>
+	<div class="e-icon">
+	<div class="e-icon-wrapper e-icon-marked" style="--e-rating-icon-marked-width: 90%;">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg> </div>
+	<div class="e-icon-wrapper e-icon-unmarked">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg> </div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-ebcb844 elementor-widget elementor-widget-heading" data-id="ebcb844" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h5 class="elementor-heading-title elementor-size-default">4.9 Out of 5</h5> </div>
+	</div>
+	<div class="elementor-element elementor-element-7ff8f6a elementor-widget elementor-widget-heading" data-id="7ff8f6a" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<span class="elementor-heading-title elementor-size-default">(3,560+ Verified Reviews)</span> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-f10cd80 elementor-align-justify elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-button" data-id="f10cd80" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;shake&quot;}" data-widget_type="button.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-button-wrapper">
+	<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink" href="https://rzp.io/rzp/JQZcbmG">
+	<span class="elementor-button-content-wrapper">
+	<span class="elementor-button-text">Become a Certified MS Excel with ChatGPT &amp; AI Expert Now at <strike>₹ 1299</strike> ₹99/-</span>
+	</span>
+	</a>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-fec6f98 e-flex e-con-boxed e-con e-parent" data-id="fec6f98" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-10fc8ab elementor-widget elementor-widget-heading" data-id="10fc8ab" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">URGENT:<br>Using ChatGPT, AI &amp; Automation to become more efficient is the need of the hour for all working professionals (irrespective of your age and profession)</h2> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-dbb7d90 e-flex e-con-boxed e-con e-parent" data-id="dbb7d90" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-1a3cea0 elementor-widget elementor-widget-gallery" data-id="1a3cea0" data-element_type="widget" data-settings="{&quot;gallery_layout&quot;:&quot;masonry&quot;,&quot;columns&quot;:&quot;3&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-gallery__container">
+	<div class="e-gallery-item elementor-gallery-item elementor-animated-content">
+	<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://officemaster.in/wp-content/uploads/2024/03/Screenshot-2024-03-20-at-18.27.46.png" data-width="374" data-height="459" aria-label="" role="img" ></div>
+	</div>
+	<div class="e-gallery-item elementor-gallery-item elementor-animated-content">
+	<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://officemaster.in/wp-content/uploads/2024/03/Screenshot-2024-03-20-at-18.26.38.png" data-width="376" data-height="235" aria-label="" role="img" ></div>
+	</div>
+	<div class="e-gallery-item elementor-gallery-item elementor-animated-content">
+	<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://officemaster.in/wp-content/uploads/2024/03/Screenshot-2024-03-20-at-18.26.19.png" data-width="374" data-height="239" aria-label="" role="img" ></div>
+	</div>
+	<div class="e-gallery-item elementor-gallery-item elementor-animated-content">
+	<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://officemaster.in/wp-content/uploads/2024/03/Screenshot-2024-03-20-at-18.19.59.png" data-width="382" data-height="306" aria-label="" role="img" ></div>
+	</div>
+	<div class="e-gallery-item elementor-gallery-item elementor-animated-content">
+	<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://officemaster.in/wp-content/uploads/2024/03/Screenshot-2024-03-20-at-18.21.23.png" data-width="380" data-height="243" aria-label="" role="img" ></div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-e45ab2b elementor-widget elementor-widget-heading" data-id="e45ab2b" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default"><u>Don't worry!<br></u>Join Now To Become A MS Excel with ChatGPT &amp; AI Expert in the COURSE!</h2> </div>
+	</div>
+	<div class="elementor-element elementor-element-685e5d3 elementor-align-justify elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-button" data-id="685e5d3" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;shake&quot;}" data-widget_type="button.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-button-wrapper">
+	<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink" href="https://rzp.io/rzp/JQZcbmG">
+	<span class="elementor-button-content-wrapper">
+	<span class="elementor-button-text">Become a Certified MS Excel with ChatGPT &amp; AI Expert Now at <strike>₹ 1299</strike> ₹99/-</span>
+	</span>
+	</a>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-e4ef458 elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="e4ef458" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">ENROLL BEFORE 26 JANUARY 2025 to Unlock All Bonuses Worth Rs.10500</h2> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-117bb0aa e-flex e-con-boxed e-con e-parent" data-id="117bb0aa" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-a4e5986 elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline" data-id="a4e5986" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline&quot;,&quot;highlighted_text&quot;:&quot;a Certified &quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
+	<div class="elementor-widget-container">
+	<p class="elementor-headline">
+	<span class="elementor-headline-plain-text elementor-headline-text-wrapper">Become</span>
+	<span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
+	<span class="elementor-headline-dynamic-text elementor-headline-text-active">a Certified </span>
+	</span>
+	<span class="elementor-headline-plain-text elementor-headline-text-wrapper">MS Excel with ChatGPT &amp; AI Expert!</span>
+	</p>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-00abe1b elementor-widget elementor-widget-image" data-id="00abe1b" data-element_type="widget" data-widget_type="image.default">
+	<div class="elementor-widget-container">
+	<img width="2000" height="1414" class="attachment-full size-full wp-image-4855 no-lazy" alt srcset="https://officemaster.in/wp-content/uploads/2024/12/Green-Minimalist-Photography-Certificate.png 2000w, https://officemaster.in/wp-content/uploads/2024/12/Green-Minimalist-Photography-Certificate-300x212.png 300w, https://officemaster.in/wp-content/uploads/2024/12/Green-Minimalist-Photography-Certificate-1024x724.png 1024w, https://officemaster.in/wp-content/uploads/2024/12/Green-Minimalist-Photography-Certificate-768x543.png 768w, https://officemaster.in/wp-content/uploads/2024/12/Green-Minimalist-Photography-Certificate-1536x1086.png 1536w" sizes="(max-width: 2000px) 100vw, 2000px" data-cfsrc="https://officemaster.in/wp-content/uploads/2024/12/Green-Minimalist-Photography-Certificate.png" style="display:none;visibility:hidden;" /><noscript><img width="2000" height="1414" src="https://officemaster.in/wp-content/uploads/2024/12/Green-Minimalist-Photography-Certificate.png" class="attachment-full size-full wp-image-4855 no-lazy" alt="" srcset="https://officemaster.in/wp-content/uploads/2024/12/Green-Minimalist-Photography-Certificate.png 2000w, https://officemaster.in/wp-content/uploads/2024/12/Green-Minimalist-Photography-Certificate-300x212.png 300w, https://officemaster.in/wp-content/uploads/2024/12/Green-Minimalist-Photography-Certificate-1024x724.png 1024w, https://officemaster.in/wp-content/uploads/2024/12/Green-Minimalist-Photography-Certificate-768x543.png 768w, https://officemaster.in/wp-content/uploads/2024/12/Green-Minimalist-Photography-Certificate-1536x1086.png 1536w" sizes="(max-width: 2000px) 100vw, 2000px"/></noscript> </div>
+	</div>
+	<div class="elementor-element elementor-element-13628ef elementor-widget elementor-widget-heading" data-id="13628ef" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h4 class="elementor-heading-title elementor-size-default">This certificate will make a 10X Impact on your Resume</h4> </div>
+	</div>
+	<div class="elementor-element elementor-element-0b0d90d elementor-align-justify elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-button" data-id="0b0d90d" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;shake&quot;}" data-widget_type="button.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-button-wrapper">
+	<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink" href="https://rzp.io/rzp/JQZcbmG">
+	<span class="elementor-button-content-wrapper">
+	<span class="elementor-button-text">Become a Certified MS Excel with ChatGPT &amp; AI Expert Now at <strike>₹ 1299</strike> ₹99/-</span>
+	</span>
+	</a>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-dc7ada2 elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="dc7ada2" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">ENROLL BEFORE 26 JANUARY 2025 to Unlock All Bonuses Worth Rs.10500</h2> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-1235033a e-flex e-con-boxed e-con e-parent" data-id="1235033a" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-21f46271 elementor-widget elementor-widget-heading" data-id="21f46271" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">Who is this COURSE for? </h2> </div>
+	</div>
+	<div class="elementor-element elementor-element-8952d8b elementor-widget elementor-widget-heading" data-id="8952d8b" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h5 class="elementor-heading-title elementor-size-default">Anyone wanting to get a <u>promotion</u>, <u>salary hike</u>, or <u>switch their jobs</u> in today's automation and AI driven world can join this COURSE (irrespective of your profession &amp; age).</h5> </div>
+	</div>
+	<div class="elementor-element elementor-element-5afb786f elementor-align-justify elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-button" data-id="5afb786f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;shake&quot;}" data-widget_type="button.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-button-wrapper">
+	<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink" href="https://rzp.io/rzp/JQZcbmG">
+	<span class="elementor-button-content-wrapper">
+	<span class="elementor-button-text">Become a Certified MS Excel with ChatGPT &amp; AI Expert Now at <strike>₹ 1299</strike> ₹99/-</span>
+	</span>
+	</a>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-7d6cf3d2 elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="7d6cf3d2" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">ENROLL BEFORE 26 JANUARY 2025 to Unlock All Bonuses Worth Rs.10500</h2> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-7de7bd51 e-flex e-con-boxed e-con e-parent" data-id="7de7bd51" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-4d479d13 elementor-widget elementor-widget-heading" data-id="4d479d13" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">Meet your trainer
+	</h2> </div>
+	</div>
+	<div class="elementor-element elementor-element-537f568a e-grid e-con-boxed e-con e-child" data-id="537f568a" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-af275f3 e-flex e-con-boxed e-con e-child" data-id="af275f3" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-1c6dca58 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="1c6dca58" data-element_type="widget" data-widget_type="image.default">
+	<div class="elementor-widget-container">
+	<img width="1080" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20width=&#039;1080&#039;%20height=&#039;1080&#039;%20viewBox=&#039;0%200%201080%201080&#039;%3E%3C/svg%3E" class="attachment-full size-full wp-image-3423 perfmatters-lazy" alt data-src="https://officemaster.in/wp-content/uploads/2024/03/Untitled-design-1.jpg" data-srcset="https://officemaster.in/wp-content/uploads/2024/03/Untitled-design-1.jpg 1080w, https://officemaster.in/wp-content/uploads/2024/03/Untitled-design-1-300x300.jpg 300w, https://officemaster.in/wp-content/uploads/2024/03/Untitled-design-1-1024x1024.jpg 1024w, https://officemaster.in/wp-content/uploads/2024/03/Untitled-design-1-150x150.jpg 150w, https://officemaster.in/wp-content/uploads/2024/03/Untitled-design-1-768x768.jpg 768w" data-sizes="(max-width: 1080px) 100vw, 1080px" /><noscript><img width="1080" height="1080" src="https://officemaster.in/wp-content/uploads/2024/03/Untitled-design-1.jpg" class="attachment-full size-full wp-image-3423" alt="" srcset="https://officemaster.in/wp-content/uploads/2024/03/Untitled-design-1.jpg 1080w, https://officemaster.in/wp-content/uploads/2024/03/Untitled-design-1-300x300.jpg 300w, https://officemaster.in/wp-content/uploads/2024/03/Untitled-design-1-1024x1024.jpg 1024w, https://officemaster.in/wp-content/uploads/2024/03/Untitled-design-1-150x150.jpg 150w, https://officemaster.in/wp-content/uploads/2024/03/Untitled-design-1-768x768.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px" /></noscript> </div>
+	</div>
+	<div class="elementor-element elementor-element-6bcfc554 elementor-widget elementor-widget-heading" data-id="6bcfc554" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">Aditya Goenka</h2> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-30cbc1ee e-flex e-con-boxed e-con e-child" data-id="30cbc1ee" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-45d7f35a elementor-list-item-link-inline elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="45d7f35a" data-element_type="widget" data-widget_type="icon-list.default">
+	<div class="elementor-widget-container">
+	<ul class="elementor-icon-list-items">
+	<li class="elementor-icon-list-item">
+	<span class="elementor-icon-list-icon">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg> </span>
+	<span class="elementor-icon-list-text">IIT Kharagpur Alumni</span>
+	</li>
+	<li class="elementor-icon-list-item">
+	<span class="elementor-icon-list-icon">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg> </span>
+	<span class="elementor-icon-list-text">Co-founder of <u>Office Master.</u></span>
+	</li>
+	<li class="elementor-icon-list-item">
+	<span class="elementor-icon-list-icon">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg> </span>
+	<span class="elementor-icon-list-text">MS Office productivity hacker</span>
+	</li>
+	<li class="elementor-icon-list-item">
+	<span class="elementor-icon-list-icon">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg> </span>
+	<span class="elementor-icon-list-text">Expertise lies in different analytical tools and technologies such as Microsoft Excel, Tableau, SQL, PowerBI</span>
+	</li>
+	<li class="elementor-icon-list-item">
+	<span class="elementor-icon-list-icon">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg> </span>
+	<span class="elementor-icon-list-text">Trained more than 1,86,000 students in MS Office &amp; AI</span>
+	</li>
+	</ul>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-3a815ddd elementor-widget elementor-widget-text-editor" data-id="3a815ddd" data-element_type="widget" data-widget_type="text-editor.default">
+	<div class="elementor-widget-container">
+	<p>Hi, I am <em><strong>Aditya Goenka,</strong></em> and I will be your mentor for the upcoming <u>Excel using ChatGPT &amp; AI COURSE</u>.</p><p>I am an alumnus of <u><strong>IIT Kharagpur 2019</strong> batch</u>. During my undergrad years, I had done internships at <u>Stanford university</u>, <u>UIUC</u>, etc.</p><p>I have built <u>multiple<strong> eight figure companies</strong></u> with the help of  ChatGPT &amp; AI tools. <span style="font-style: inherit;font-weight: inherit;text-align: var(--text-align)">I am excited to share my knowledge and experience with you, and to help you </span><strong style="font-style: inherit;text-align: var(--text-align)">increase your productivity in Microsoft Excel using ChatGPT &amp; AI tools</strong><span style="font-style: inherit;font-weight: inherit;text-align: var(--text-align)">.</span></p><p>In this COURSE, I look forward to make you a <u>MS Excel with ChatGPT &amp; AI PRO</u> and help you save 3 hours of your time daily while helping you increase your salary by up to 3 times.</p> </div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-d220d91 e-grid elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-con-boxed e-con e-child" data-id="d220d91" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-fb883f0 e-flex e-con-boxed e-con e-child" data-id="fb883f0" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-e631bb9 elementor-widget elementor-widget-image" data-id="e631bb9" data-element_type="widget" data-widget_type="image.default">
+	<div class="elementor-widget-container">
+	<img width="1080" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20width=&#039;1080&#039;%20height=&#039;1080&#039;%20viewBox=&#039;0%200%201080%201080&#039;%3E%3C/svg%3E" class="attachment-full size-full wp-image-3740 perfmatters-lazy" alt data-src="https://officemaster.in/wp-content/uploads/2023/08/Untitled-design-2-1.png" data-srcset="https://officemaster.in/wp-content/uploads/2023/08/Untitled-design-2-1.png 1080w, https://officemaster.in/wp-content/uploads/2023/08/Untitled-design-2-1-300x300.png 300w, https://officemaster.in/wp-content/uploads/2023/08/Untitled-design-2-1-1024x1024.png 1024w, https://officemaster.in/wp-content/uploads/2023/08/Untitled-design-2-1-150x150.png 150w, https://officemaster.in/wp-content/uploads/2023/08/Untitled-design-2-1-768x768.png 768w" data-sizes="(max-width: 1080px) 100vw, 1080px" /><noscript><img width="1080" height="1080" src="https://officemaster.in/wp-content/uploads/2023/08/Untitled-design-2-1.png" class="attachment-full size-full wp-image-3740" alt="" srcset="https://officemaster.in/wp-content/uploads/2023/08/Untitled-design-2-1.png 1080w, https://officemaster.in/wp-content/uploads/2023/08/Untitled-design-2-1-300x300.png 300w, https://officemaster.in/wp-content/uploads/2023/08/Untitled-design-2-1-1024x1024.png 1024w, https://officemaster.in/wp-content/uploads/2023/08/Untitled-design-2-1-150x150.png 150w, https://officemaster.in/wp-content/uploads/2023/08/Untitled-design-2-1-768x768.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" /></noscript> </div>
+	</div>
+	<div class="elementor-element elementor-element-1e2d600 elementor-widget elementor-widget-heading" data-id="1e2d600" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h3 class="elementor-heading-title elementor-size-default">Sharad Anand</h3> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-87758cf e-flex e-con-boxed e-con e-child" data-id="87758cf" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-6dd6cde elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6dd6cde" data-element_type="widget" data-widget_type="icon-list.default">
+	<div class="elementor-widget-container">
+	<ul class="elementor-icon-list-items">
+	<li class="elementor-icon-list-item">
+	<span class="elementor-icon-list-icon">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg> </span>
+	<span class="elementor-icon-list-text">Qualified Microsoft Certified Professional</span>
+	</li>
+	<li class="elementor-icon-list-item">
+	<span class="elementor-icon-list-icon">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg> </span>
+	<span class="elementor-icon-list-text">Trained over 2,00,000 students and working professionals</span>
+	</li>
+	<li class="elementor-icon-list-item">
+	<span class="elementor-icon-list-icon">
+	<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg> </span>
+	<span class="elementor-icon-list-text">Over 15 years of rich experience in the field</span>
+	</li>
+	</ul>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-c7bdbc5 elementor-widget elementor-widget-text-editor" data-id="c7bdbc5" data-element_type="widget" data-widget_type="text-editor.default">
+	<div class="elementor-widget-container">
+	<p>Hi, I am <b><i>Sharad Anand</i></b>, and I will be another mentor for the upcoming <u>Power BI Domination COURSE</u>.</p><p>With over <u>15 years of rich experience</u>, I have successfully trained approximately <u>200,000 Students and Working Professionals</u> imparting skills from basic operations to advanced data analysis techniques.</p><p>I am Proficient in teaching Power BI that enables professionals to transform raw data into meaningful insights.</p><p>Join me and learn from an expert who has made a significant impact across various industries by equipping professionals with essential data management and presentation skills. <u>Boost your career prospects with these critical business tools today!</u></p> </div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-ae9ae57 elementor-align-justify elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-button" data-id="ae9ae57" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;shake&quot;}" data-widget_type="button.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-button-wrapper">
+	<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink" href="https://rzp.io/rzp/JQZcbmG">
+	<span class="elementor-button-content-wrapper">
+	<span class="elementor-button-text">Become a Certified MS Excel with ChatGPT &amp; AI Expert Now at <strike>₹ 1299</strike> ₹99/-</span>
+	</span>
+	</a>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-f6e0839 elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="f6e0839" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">ENROLL BEFORE 26 JANUARY 2025 to Unlock All Bonuses Worth Rs.10500</h2> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-5f919b80 e-flex e-con-boxed e-con e-parent" data-id="5f919b80" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-16640644 elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="16640644" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">Frequently Asked Questions (FAQs)</h2> </div>
+	</div>
+	<div class="elementor-element elementor-element-4658614 elementor-widget elementor-widget-heading" data-id="4658614" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">We’ve tried our best to answer all common queries that you might have. For further queries, please email us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b9d1dcd5d5d6f9d6dfdfd0dadcd4d8cacddccb97d0d7">[email&#160;protected]</a>.</h2> </div>
+	</div>
+	<div class="elementor-element elementor-element-22980fe2 elementor-widget__width-inherit elementor-widget elementor-widget-toggle" data-id="22980fe2" data-element_type="widget" data-widget_type="toggle.default">
+	<div class="elementor-widget-container">
+	<style>/*! elementor - v3.23.0 - 15-07-2024 */
+	.elementor-toggle{text-align:start}.elementor-toggle .elementor-tab-title{font-weight:700;line-height:1;margin:0;padding:15px;border-bottom:1px solid #d5d8dc;cursor:pointer;outline:none}.elementor-toggle .elementor-tab-title .elementor-toggle-icon{display:inline-block;width:1em}.elementor-toggle .elementor-tab-title .elementor-toggle-icon svg{margin-inline-start:-5px;width:1em;height:1em}.elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-right{float:right;text-align:right}.elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left{float:left;text-align:left}.elementor-toggle .elementor-tab-title .elementor-toggle-icon .elementor-toggle-icon-closed{display:block}.elementor-toggle .elementor-tab-title .elementor-toggle-icon .elementor-toggle-icon-opened{display:none}.elementor-toggle .elementor-tab-title.elementor-active{border-bottom:none}.elementor-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon-closed{display:none}.elementor-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon-opened{display:block}.elementor-toggle .elementor-tab-content{padding:15px;border-bottom:1px solid #d5d8dc;display:none}@media (max-width:767px){.elementor-toggle .elementor-tab-title{padding:12px}.elementor-toggle .elementor-tab-content{padding:12px 10px}}.e-con-inner>.elementor-widget-toggle,.e-con>.elementor-widget-toggle{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}</style> <div class="elementor-toggle">
+	<div class="elementor-toggle-item">
+	<div id="elementor-tab-title-5801" class="elementor-tab-title" data-tab="1" role="button" aria-controls="elementor-tab-content-5801" aria-expanded="false">
+	<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+	<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+	<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+	</span>
+	<a class="elementor-toggle-title" tabindex="0">When is the COURSE?</a>
+	</div>
+	
+	<div id="elementor-tab-content-5801" class="elementor-tab-content elementor-clearfix" data-tab="1" role="region" aria-labelledby="elementor-tab-title-5801"><p>The COURSE is on January 19, 2025 11:00 AM.</p></div>
+	</div>
+	<div class="elementor-toggle-item">
+	<div id="elementor-tab-title-5802" class="elementor-tab-title" data-tab="2" role="button" aria-controls="elementor-tab-content-5802" aria-expanded="false">
+	<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+	<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+	<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+	</span>
+	<a class="elementor-toggle-title" tabindex="0">Is there any prerequisite required?</a>
+	</div>
+	
+	<div id="elementor-tab-content-5802" class="elementor-tab-content elementor-clearfix" data-tab="2" role="region" aria-labelledby="elementor-tab-title-5802"><p>No, the COURSE does not require any prerequisites.</p></div>
+	</div>
+	<div class="elementor-toggle-item">
+	<div id="elementor-tab-title-5803" class="elementor-tab-title" data-tab="3" role="button" aria-controls="elementor-tab-content-5803" aria-expanded="false">
+	<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+	<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+	<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+	</span>
+	<a class="elementor-toggle-title" tabindex="0">Is it a certified COURSE?</a>
+	</div>
+	
+	<div id="elementor-tab-content-5803" class="elementor-tab-content elementor-clearfix" data-tab="3" role="region" aria-labelledby="elementor-tab-title-5803"><p>Yes! it is Office Master certified COURSE.</p></div>
+	</div>
+	<div class="elementor-toggle-item">
+	<div id="elementor-tab-title-5804" class="elementor-tab-title" data-tab="4" role="button" aria-controls="elementor-tab-content-5804" aria-expanded="false">
+	<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+	<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+	<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+	</span>
+	<a class="elementor-toggle-title" tabindex="0">Do you get notes &amp; assignments to practice?</a>
+	</div>
+	
+	<div id="elementor-tab-content-5804" class="elementor-tab-content elementor-clearfix" data-tab="4" role="region" aria-labelledby="elementor-tab-title-5804"><p>Absolutely. It is a completely hands-on Masterclass where you will also get notes, reference material &amp; assignments for your future reference.</p></div>
+	</div>
+	<div class="elementor-toggle-item">
+	<div id="elementor-tab-title-5805" class="elementor-tab-title" data-tab="5" role="button" aria-controls="elementor-tab-content-5805" aria-expanded="false">
+	<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+	<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+	<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+	</span>
+	<a class="elementor-toggle-title" tabindex="0">Is there any age limit for the COURSE?</a>
+	</div>
+	
+	<div id="elementor-tab-content-5805" class="elementor-tab-content elementor-clearfix" data-tab="5" role="region" aria-labelledby="elementor-tab-title-5805"><p>No, there is no age limit. I understand that technology might scare some people especially if you are elder &amp; more experienced, however, the COURSE will cover tools that you will easily be able to learn, master &amp; use without really being a tech-expert or learning coding.</p></div>
+	</div>
+	<div class="elementor-toggle-item">
+	<div id="elementor-tab-title-5806" class="elementor-tab-title" data-tab="6" role="button" aria-controls="elementor-tab-content-5806" aria-expanded="false">
+	<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+	<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+	<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+	</span>
+	<a class="elementor-toggle-title" tabindex="0">How much time will I be able to save?</a>
+	</div>
+	
+	<div id="elementor-tab-content-5806" class="elementor-tab-content elementor-clearfix" data-tab="6" role="region" aria-labelledby="elementor-tab-title-5806"><p>With the help of ChatGPT &amp; AI, you will be able to save up to 3 hours of work every day while working on MS Excel.</p></div>
+	</div>
+	<div class="elementor-toggle-item">
+	<div id="elementor-tab-title-5807" class="elementor-tab-title" data-tab="7" role="button" aria-controls="elementor-tab-content-5807" aria-expanded="false">
+	<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+	<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+	<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+	</span>
+	<a class="elementor-toggle-title" tabindex="0">Will it be recorded COURSE?</a>
+	</div>
+	
+	<div id="elementor-tab-content-5807" class="elementor-tab-content elementor-clearfix" data-tab="7" role="region" aria-labelledby="elementor-tab-title-5807"><p>No, it won&#8217;t be recorded.</p></div>
+	</div>
+	<div class="elementor-toggle-item">
+	<div id="elementor-tab-title-5808" class="elementor-tab-title" data-tab="8" role="button" aria-controls="elementor-tab-content-5808" aria-expanded="false">
+	<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+	<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+	<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+	</span>
+	<a class="elementor-toggle-title" tabindex="0">I made the payment but didn’t receive any email </a>
+	</div>
+	
+	<div id="elementor-tab-content-5808" class="elementor-tab-content elementor-clearfix" data-tab="8" role="region" aria-labelledby="elementor-tab-title-5808"><p>Please write to us at <a href="/cdn-cgi/l/email-protection#127a777e7e7d527d74747b71777f73616677603c7b7c"><span class="__cf_email__" data-cfemail="bdd5d8d1d1d2fdd2dbdbd4ded8d0dccec9d8cf93d4d3">[email&#160;protected]</span></a> &amp; our awesome support team will get back to you as soon as possible.</p></div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-185538 elementor-widget elementor-widget-heading" data-id="185538" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">SEE YOU INSIDE THE COURSE 😃</h2> </div>
+	</div>
+	<div class="elementor-element elementor-element-45d7cee elementor-align-justify elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-button" data-id="45d7cee" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;shake&quot;}" data-widget_type="button.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-button-wrapper">
+	<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink" href="https://rzp.io/rzp/JQZcbmG">
+	<span class="elementor-button-content-wrapper">
+	<span class="elementor-button-text">Become a Certified MS Excel with ChatGPT &amp; AI Expert Now at <strike>₹ 1299</strike> ₹99/-</span>
+	</span>
+	</a>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-57e975d3 elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="57e975d3" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-default">ENROLL BEFORE 26 JANUARY 2025<br>to Unlock All Bonuses Worth Rs.10500</h2> </div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-269283e2 elementor-hidden-desktop elementor-hidden-tablet e-grid e-con-boxed e-con e-parent" data-id="269283e2" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;bottom&quot;,&quot;sticky_on&quot;:[&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-1806d9c3 e-flex e-con-boxed e-con e-child" data-id="1806d9c3" data-element_type="container">
+	<div class="e-con-inner">
+	<div class="elementor-element elementor-element-13488f37 elementor-widget elementor-widget-heading" data-id="13488f37" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h5 class="elementor-heading-title elementor-size-default">Offer Ends in</h5> </div>
+	</div>
+	<div class="elementor-element elementor-element-76494b6e elementor-countdown--label-inline elementor-widget elementor-widget-countdown" data-id="76494b6e" data-element_type="widget" data-widget_type="countdown.default">
+	<div class="elementor-widget-container">
+	<div data-evergreen-interval="1116" class="elementor-countdown-wrapper" data-date="">
+	<div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-minutes"></span> <span class="elementor-countdown-label">M</span></div><div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-seconds"></span> <span class="elementor-countdown-label">S</span></div> </div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-75009dda elementor-align-justify animated-slow elementor-invisible elementor-widget elementor-widget-button" data-id="75009dda" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;shake&quot;}" data-widget_type="button.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-button-wrapper">
+	<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink" href="https://rzp.io/rzp/JQZcbmG">
+	<span class="elementor-button-content-wrapper">
+	<span class="elementor-button-text">Register Now At Just<br><strike>₹ 1299</strike> ₹99/-</span>
+	</span>
+	</a>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+
+	(function(c,l,a,r,i,t,y){
+	c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+	t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+	y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+	})(window, document, "clarity", "script", "jr045eulov");
+	</script><script>
+	jQuery( document ).ready( function ( $ ) {
+	$(document).on( 'countdown_expire', function() {
+	
+	Object.keys(localStorage)
+	.filter(key => key.endsWith('evergreen_interval'))
+	.forEach(key => localStorage
+	.removeItem((key)))
+	
+	Object.keys(localStorage)
+	.filter(key => key.endsWith('evergreen_due_date'))
+	.forEach(key => localStorage
+	.removeItem((key)))
+	
+	} );
+	} );
+	</script><script type="text/javascript">
+	const checkboxes = document.getElementsByClassName("show");
+	const div = document.getElementById("interactiontrigger");
+	
+	div.style.display = "none";
+	
+	function hideDivIfAllUnchecked() {
+	const allUnchecked = Array.from(checkboxes).every((checkbox) => !checkbox.checked);
+	
+	if (allUnchecked) {
+	div.style.display = "none";
+	} else {
+	div.style.display = "block";
+	}
+	}
+	
+	for (var i = 0; i < checkboxes.length; i++) {
+	checkboxes[i].addEventListener("change", (e) => {
+	if (e.target.checked === true) {
+	div.style.display = "block";
+	}
+	hideDivIfAllUnchecked();
+	});
+	}
+	
+	</script><script>
+	var currentURL = window.location.href;
+	if (currentURL.includes("?")) {
+	var currentUTMs = currentURL.split('?').pop();
+	var allLinks = document.getElementsByTagName("a");
+	for (var i = 0; i < allLinks.length; i++) {
+	if (allLinks[i].href.includes("?")) {
+	allLinks[i].href += "&" + currentUTMs;
+	}
+	else {
+	allLinks[i].href += "?" + currentUTMs;
+	}
+	}
+	}
+	</script><link rel='stylesheet' id='e-animations-css' href='https://officemaster.in/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.23.0' media='all' />
+
+	<link rel="stylesheet" id="elementor-gallery-css" href="https://officemaster.in/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0" media="print" onload="this.media=&#039;all&#039;;this.onload=null;"></link>
+	<script id="astra-theme-js-js-extra">
+	var astra = {"break_point":"921","isRtl":"","is_scroll_to_id":"1","is_scroll_to_top":"","is_header_footer_builder_active":"1","revealEffectEnable":"","edit_post_url":"https:\/\/officemaster.in\/wp-admin\/post.php?post={{id}}&action=edit","ajax_url":"https:\/\/officemaster.in\/wp-admin\/admin-ajax.php","infinite_count":"2","infinite_total":"0","pagination":"infinite","infinite_scroll_event":"scroll","no_more_post_message":"No more posts to show.","grid_layout":"1","site_url":"https:\/\/officemaster.in","blogArchiveTitleLayout":"","show_comments":"Show Comments","masonryEnabled":"","blogMasonryBreakPoint":"921"};
+	</script>
+	<script src="https://officemaster.in/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.6.10" id="astra-theme-js-js" defer></script>
+	<script id="astra-sticky-sidebar-js-extra">
+	var astra_sticky_sidebar = {"sticky_sidebar_on":"1","header_above_height":{"desktop":50,"tablet":"","mobile":""},"header_height":{"desktop":80,"tablet":"","mobile":""},"header_below_height":{"desktop":60,"tablet":"","mobile":""},"header_above_stick":"0","header_main_stick":"0","header_below_stick":"0","sticky_header_addon":"1","desktop_breakpoint":"922"};
+	</script>
+	<script src="https://officemaster.in/wp-content/themes/astra/assets/js/minified/sticky-sidebar.min.js?ver=4.6.10" id="astra-sticky-sidebar-js" defer></script>
+
+	<script id="astra-addon-js-js-extra">
+	var astraAddon = {"sticky_active":"","svgIconClose":"<span class=\"ast-icon icon-close\"><svg viewBox=\"0 0 512 512\" aria-hidden=\"true\" role=\"img\" version=\"1.1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" width=\"18px\" height=\"18px\">\n <path d=\"M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z\" \/>\n <\/svg><\/span>","hf_account_show_menu_on":"hover","hf_account_action_type":"link","header_main_stick":"0","header_above_stick":"0","header_below_stick":"0","stick_header_meta":"","header_main_stick_meta":"","header_above_stick_meta":"","header_below_stick_meta":"","sticky_header_on_devices":"desktop","sticky_header_style":"none","sticky_hide_on_scroll":"0","break_point":"921","tablet_break_point":"921","mobile_break_point":"544","header_main_shrink":"1","header_logo_width":"","responsive_header_logo_width":{"desktop":66,"tablet":"","mobile":""},"stick_origin_position":"","site_layout":"ast-full-width-layout","site_content_width":"1240","site_layout_padded_width":"1200","site_layout_box_width":"1200","header_builder_active":"1","component_limit":"10","is_header_builder_active":"1"};
+	</script>
+	<script src="https://officemaster.in/wp-content/uploads/astra-addon/astra-addon-669fdfc1bafc08-09724400.js?ver=4.6.4" id="astra-addon-js-js" defer></script>
+
+	<script src="https://officemaster.in/wp-content/plugins/breeze/assets/js/js-front-end/breeze-lazy-load.min.js?ver=2.1.11" id="breeze-lazy-js" defer></script>
+
+	<script id="perfmatters-lazy-load-js-before">
+	window.lazyLoadOptions={elements_selector:"img[data-src],.perfmatters-lazy,.perfmatters-lazy-css-bg",thresholds:"0px 0px",class_loading:"pmloading",class_loaded:"pmloaded",callback_loaded:function(element){if(element.tagName==="IFRAME"){if(element.classList.contains("pmloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener("LazyLoad::Initialized",function(e){var lazyLoadInstance=e.detail.instance;var target=document.querySelector("body");var observer=new MutationObserver(function(mutations){lazyLoadInstance.update()});var config={childList:!0,subtree:!0};observer.observe(target,config);});
+	</script>
+	<script async src="https://officemaster.in/wp-content/plugins/perfmatters/js/lazyload.min.js?ver=2.3.2" id="perfmatters-lazy-load-js"></script>
+	<script async data-no-optimize="1" src="https://officemaster.in/wp-content/plugins/perfmatters/vendor/instant-page/pminstantpage.min.js?ver=2.3.2" id="perfmatters-instant-page-js"></script>
+	<script src="https://officemaster.in/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.23.0" id="e-sticky-js" defer></script>
+
+	<script src="https://officemaster.in/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0" id="elementor-gallery-js"></script>
+
+	<script src="https://officemaster.in/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.23.0" id="elementor-pro-webpack-runtime-js" defer></script>
+
+	<script src="https://officemaster.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.23.0" id="elementor-webpack-runtime-js" defer></script>
+	<script src="https://officemaster.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.23.0" id="elementor-frontend-modules-js" defer></script>
+
+	<script src="https://officemaster.in/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js" defer></script>
+
+	<script src="https://officemaster.in/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js" defer></script>
+
+	<script src="https://officemaster.in/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js" defer></script>
+	<script src="https://officemaster.in/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js" defer></script>
+
+	<script src="https://officemaster.in/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js" defer></script>
+
+	<script id="wp-i18n-js-after">
+	wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+	</script>
+	<script id="elementor-pro-frontend-js-before">
+	var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/officemaster.in\/wp-admin\/admin-ajax.php","nonce":"802484639c","urls":{"assets":"https:\/\/officemaster.in\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/officemaster.in\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/officemaster.in\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+	</script>
+	<script src="https://officemaster.in/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.23.0" id="elementor-pro-frontend-js" defer></script>
+
+	<script src="https://officemaster.in/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js" defer></script>
+	<script src="https://officemaster.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js" defer></script>
+	<script id="elementor-frontend-js-before">
+	var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.23.0","is_static":false,"experimentalFeatures":{"e_optimized_css_loading":true,"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"container_grid":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_onboarding":true,"theme_builder_v2":true,"home_screen":true,"ai-layout":true,"nested-elements":true,"display-conditions":true,"form-submissions":true,"taxonomy-filter":true},"urls":{"assets":"https:\/\/officemaster.in\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/officemaster.in\/wp-admin\/admin-ajax.php"},"nonces":{"floatingButtonsClickTracking":"43a47f43ff"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":888,"title":"Advance%20Data%20Analytics%20Using%20MS%20Excel%20-%20Office%20Master","excerpt":"","featuredImage":"https:\/\/officemaster.in\/wp-content\/uploads\/2023\/08\/ExcelGPT-1024x576.jpg"}};
+	</script>
+	<script src="https://officemaster.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.0" id="elementor-frontend-js" defer></script>
+	<script src="https://officemaster.in/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.23.0" id="pro-elements-handlers-js" defer></script>
+
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	<script type="text/javascript">window.addEventListener("DOMContentLoaded",(e=>{document.querySelectorAll('img[loading="lazy"]').forEach((e=>{e.getBoundingClientRect().top<=window.innerHeight&&(e.loading="eager")}))}));</script> </body>
+	</html>
+	
+	<!-- plugin=object-cache-pro client=phpredis metric#hits=5495 metric#misses=537 metric#hit-ratio=91.1 metric#bytes=492807 metric#prefetches=0 metric#store-reads=449 metric#store-writes=218 metric#store-hits=4 metric#store-misses=529 metric#sql-queries=192 metric#ms-total=659.14 metric#ms-cache=76.02 metric#ms-cache-avg=0.1141 metric#ms-cache-ratio=11.5 sample#redis-hits=140775866 sample#redis-misses=175694972 sample#redis-hit-ratio=44.5 sample#redis-ops-per-sec=420 sample#redis-evicted-keys=0 sample#redis-used-memory=11696224 sample#redis-used-memory-rss=19124224 sample#redis-memory-fragmentation-ratio=1.6 sample#redis-connected-clients=1 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=263 -->
+	
+
+
